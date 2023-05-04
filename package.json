@@ -1,0 +1,16 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "csbd-interview",
+  "main": "index.js",
+  "author": "w",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61"
+  },
+
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+
+}
